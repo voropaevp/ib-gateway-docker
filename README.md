@@ -2,6 +2,8 @@
 
 This builds a Docker image with the latest version of [Interactive Brokers](https://interactivebrokers.com)' [IB Gateway](https://www.interactivebrokers.com/en/index.php?f=5041), the modern [IbcAlpha/IBC](https://github.com/IbcAlpha/IBC) for automation, and a VNC server for debugging purposes.
 
+Updated for the version (as of 12/21/20) of IBKR Gateway and IBC.
+
 **Currently, the API is only enabled in read-only mode**, for testing purposes.
 
 ## Building
